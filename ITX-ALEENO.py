@@ -142,7 +142,8 @@ except IOError:
 
         print(logo)
 
-logo="""\033[1;67m
+
+	logo="""\033[1;67m
 
 
 
