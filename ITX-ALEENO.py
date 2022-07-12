@@ -134,7 +134,7 @@ def main_apv():
 
     print(logo)
 
-    
+    try:
 
 except IOError:
 
